@@ -1,8 +1,7 @@
 module.exports = {
   url: process.env.URL || 'http://localhost:8080',
-  siteName: "Hamilton Hoxie Ackerman's Homepage",
-  siteDescription:
-    'The personal homepage of Hamilton Hoxie Ackerman.',
+  siteName: 'HHA',
+  siteDescription: 'The personal homepage of Hamilton Hoxie Ackerman.',
   siteType: 'Person', // schema
   locale: 'en_EN',
   lang: 'en',
@@ -58,7 +57,7 @@ module.exports = {
     ariaBottom: 'Complementary',
     ariaPlatforms: 'Platforms',
     // activate alternative mobile menu with drawer
-    drawerNav: false,
+    drawerNav: true,
     navLabel: 'Menu'
   },
   themeSwitch: {
