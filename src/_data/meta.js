@@ -1,17 +1,17 @@
 module.exports = {
   url: process.env.URL || 'http://localhost:8080',
-  siteName: 'Eleventy Excellent',
+  siteName: "Hamilton Hoxie Ackerman's Homepage",
   siteDescription:
-    'Eleventy starter built around the CSS workflow suggested by buildexcellentwebsit.es',
+    'The personal homepage of Hamilton Hoxie Ackerman.',
   siteType: 'Person', // schema
   locale: 'en_EN',
   lang: 'en',
   skipContent: 'Skip to content',
   author: {
-    name: 'Lene Saile', // i.e. Lene Saile - page / blog author's name. Must be set.
+    name: 'Hamilton Hoxie Ackerman', // i.e. Lene Saile - page / blog author's name. Must be set.
     avatar: '/favicon.png',
-    email: 'hola@lenesaile.com', // i.e. hola@lenesaile.com - email of the author
-    website: 'https://www.lenesaile.com' // i.e. https.://www.lenesaile.com - the personal site of the author
+    email: 'hoxiea@gmail.com', // i.e. hola@lenesaile.com - email of the author
+    website: 'https://www.hhackerman.com' // i.e. https.://www.lenesaile.com - the personal site of the author
   },
   creator: {
     name: 'Lene Saile', // i.e. Lene Saile - creator's (developer) name.
