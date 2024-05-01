@@ -7,15 +7,15 @@ module.exports = {
   lang: 'en',
   skipContent: 'Skip to content',
   author: {
-    name: 'Hamilton Hoxie Ackerman', // i.e. Lene Saile - page / blog author's name. Must be set.
+    name: 'Hamilton Hoxie Ackerman', // i.e. page / blog author's name, must be set
     avatar: '/favicon.png',
-    email: 'hoxiea@gmail.com', // i.e. hola@lenesaile.com - email of the author
-    website: 'https://www.hhackerman.com' // i.e. https.://www.lenesaile.com - the personal site of the author
+    email: 'hoxiea@gmail.com',
+    website: 'https://www.hhackerman.com' // the personal site of the author
   },
   creator: {
-    name: 'Lene Saile', // i.e. Lene Saile - creator's (developer) name.
-    email: 'hola@lenesaile.com',
-    website: 'https://www.lenesaile.com',
+    name: 'Hamilton Hoxie Ackerman', // i.e. creator's (developer) name.
+    email: 'hoxiea@gmail.com',
+    website: 'https://www.hhackerman.com',
     social: 'https://front-end.social/@lene'
   },
   themeColor: '#DD4462', //  Manifest: defines the default theme color for the application
@@ -85,5 +85,5 @@ module.exports = {
     allow: true,
     infoText: 'View this page on GitHub'
   },
-  easteregg: true
+  easteregg: false
 };

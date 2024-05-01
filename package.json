@@ -1,8 +1,8 @@
 {
-  "name": "eleventy-excellent",
+  "name": "hha-eleventy-excellent",
   "version": "2.2.3",
-  "description": "Eleventy starter built around the workflow suggested by Andy Bell's buildexcellentwebsit.es.",
-  "author": "Lene Saile",
+  "description": "Personal website of Hamilton Hoxie Ackerman, based on Eleventy Excellent by Lene Saile",
+  "author": "Hamilton Hoxie Ackerman",
   "license": "ISC",
   "engines": {
     "node": ">=18.x.x"
@@ -17,7 +17,7 @@
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": "https://github.com/madrilene/eleventy-excellent.git"
+    "url": "https://github.com/hoxiea/hha-eleventy-excellent"
   },
   "dependencies": {
     "@11ty/eleventy": "^2.0.1",

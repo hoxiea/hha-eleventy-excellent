@@ -5,20 +5,16 @@ module.exports = {
       url: '/bio/'
     },
     {
-      text: 'Get started',
-      url: '/get-started/'
+      text: 'Education',
+      url: '/education/'
     },
     {
-      text: 'Built with',
-      url: '/built-with/'
+      text: 'Tutoring',
+      url: '/tutoring/'
     },
     {
       text: 'Blog',
       url: '/blog/'
-    },
-    {
-      text: 'Style guide',
-      url: '/styleguide/'
     }
   ],
   bottom: [
