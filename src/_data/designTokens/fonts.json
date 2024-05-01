@@ -31,7 +31,6 @@
       "description": "Monospace font for code and preformatted text.",
       "value": [
         "FiraCode",
-        "RobotoMono",
         "ui-monospace",
         "Cascadia Code",
         "Source Code Pro",
