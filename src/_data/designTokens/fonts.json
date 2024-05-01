@@ -5,7 +5,14 @@
     {
       "name": "Display",
       "description": "Display font stack for headings and large text.",
-      "value": ["Redhat", "Segoe UI", "Roboto", "Helvetica Neue", "Arial", "sans-serif"]
+      "value": [
+        "Redhat", 
+        "Segoe UI", 
+        "Roboto", 
+        "Helvetica Neue", 
+        "Arial", 
+        "sans-serif"
+      ]
     },
     {
       "name": "Base",
@@ -23,6 +30,7 @@
       "name": "Mono",
       "description": "Monospace font for code and preformatted text.",
       "value": [
+        "FiraCode",
         "RobotoMono",
         "ui-monospace",
         "Cascadia Code",
