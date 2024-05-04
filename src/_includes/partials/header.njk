@@ -2,6 +2,7 @@
 
 <header class="wrapper">
   <div class="repel ontop">
+    {# Site name + toggle button#}
     <a
       href="/"
       class="logo | cluster"
@@ -9,6 +10,8 @@
     >
       <span>{{ meta.siteName }}</span>
     </a>
+
+    {# Page navigation#}
     {% include "partials/main-nav.njk" %}
   </div>
 </header>

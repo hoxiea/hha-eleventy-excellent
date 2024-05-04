@@ -7,7 +7,7 @@
       >
         &copy; {% year %}
         <a href="/" {% if page.url == "/" %}aria-current="page"{% endif %}
-          >{{ meta.siteName }} <small>{{ pkg.version }}</small>
+          >{{ meta.author.name }} 
         </a>
 
         {% for item in navigation.bottom %}
@@ -49,12 +49,5 @@
 
     <!-- theme switch -->
     {% include 'components/theme-switch.njk' %}
-
-    <div class="text-center mt-m-l">
-      <a class="creator text-step-min-1" href="{{ meta.creator.website }}"
-        >Made with <span>{% include 'svg/heart.svg' %}</span> 
-        in Spokane, WA </a
-      >
-    </div>
   </div>
 </footer>

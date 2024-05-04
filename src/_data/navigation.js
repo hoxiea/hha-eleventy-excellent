@@ -17,10 +17,5 @@ module.exports = {
       url: '/blog/'
     }
   ],
-  bottom: [
-    {
-      text: 'Privacy',
-      url: '/privacy/'
-    }
-  ]
+  bottom: []
 };

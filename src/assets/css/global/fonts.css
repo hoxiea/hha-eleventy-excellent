@@ -1,3 +1,5 @@
+/* DISPLAY FONTS: headings and large text | var(--font-display) */
+
 /* Set up for old browsers. I set the medium Figtree as regular, as I prefer it a little bolder. */
 @supports not (font-variation-settings: normal) {
   @font-face {
